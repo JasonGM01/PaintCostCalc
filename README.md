@@ -1,2 +1,0 @@
-# PaintCostCalc
-Paint cost calculator
